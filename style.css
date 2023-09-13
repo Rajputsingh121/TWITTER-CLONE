@@ -10,12 +10,19 @@ header{
      position: relative;
     width:100%;
     background-color: #fff;
+    padding:15px 0px 15px 3opx;
 
 }
  header aside{
     width:10%;
     height:100%;
  }
+  header section{
+    position: relative;
+    width:85%;
+    height:100%;
+    
+  }
  header aside.logo{
     font-size: 30px;
     color:blue;
